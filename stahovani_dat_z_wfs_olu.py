@@ -2,7 +2,7 @@ import requests
 
 #ohranicujici obdelnik v souradnicovem systemu EPSG:3857
 bbox='2019772,6384876,2040929,6372402'
-limit=5000
+limit=1000
 offset=0
 
 folder='/slozka_stazeni/'
